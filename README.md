@@ -5,7 +5,7 @@ comment mettre en place une modélisation relationnelle en utilisant la méthode
 
 - Présentation au tableau de la méthode merise
 - Chacun crée sa base de données avec les tables de la version One-to-Many vue au tableau
-- Executer le script d'alimentation des données fourni en cliquant ici
+- Executer le script d'alimentation des données fourni en [cliquant ici](dataset.sql)
 - Proposition de diverses requêtes SQL à trouver
 - Tous les event avec tous les champs
 	- Tous les event avec uniquement les titre des event et le prix

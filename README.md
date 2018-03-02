@@ -3,7 +3,7 @@
 En s'inspirant de la base de données établie pour le projet précédent ( découverte PHP ) nous allons voir
 comment mettre en place une modélisation relationnelle en utilisant la méthode Merise.
 
-- Présentation au tableau de la méthode merise
+- [Présentation au tableau de la méthode merise](photo_tableau_merise.jpg)
 - Chacun crée sa base de données avec les tables de la version One-to-Many vue au tableau
 - Executer le script d'alimentation des données fourni en [cliquant ici](dataset.sql)
 - Proposition de diverses requêtes SQL à trouver
